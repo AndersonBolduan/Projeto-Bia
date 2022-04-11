@@ -1,0 +1,91 @@
+@charset "utf-8";
+body {
+    background-color: #181a1a;
+    position: center;
+    background-image: url(https://thumbs.dreamstime.com/b/fundo-roxo-velho-com-textura-da-pedra-ou-rocha-na-cor-roxa-real-escura-rica-143655802.jpg);
+    background-attachment: fixed;
+}
+
+.a1 {
+    color: black;
+    font-size: x-large;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.section1 {
+    background-image: url(crying_face-removebg-preview.png);
+    background-position: center;
+    background-color: #682eb4;
+    color: #181a1a;
+    width: 700px;
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+.h1 {
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 4px;
+}
+.main1 {
+    width: 700px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.section2 {
+    background-image: url(Emoji-timido-apaixonado-Png-1024x1024-removebg-preview.png);
+    width: 700px;
+    height: 540px;
+    background-color: rgb(215,209,94);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+
+.main2 {
+    padding-left: 10px;
+    padding-right: 7px;
+}
+
+.g2 {
+    text-shadow: 3px 3px 4px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p1 {
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.section3 {
+    background-color: #181a1a;
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 15px;
+}
+
+.g3 {
+    font-size: 500%;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.a2 {
+    text-decoration: none;
+    color: #a816fc;
+    font-size: x-large;
+}
+
+.p2 {
+    font-size: xx-large;
+}
